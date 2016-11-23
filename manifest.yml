@@ -1,5 +1,5 @@
 ---
 applications:
-- name:    hello-node
-  host:    hello-node
+- name:    hello-node-derekja
+  host:    hello-node-derekja
   memory:  128M
